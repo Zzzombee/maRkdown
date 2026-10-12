@@ -1,0 +1,15 @@
+# Sources have their own backup lifecycle; never ignore skill templates globally.
+/sources/
+/.work/
+/.planning/legacy/
+
+# Runtime links, caches and editor noise
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.agents.zip

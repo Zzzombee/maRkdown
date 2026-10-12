@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature Source Gate"
+  short_description: "Screen, verify, and label scholarly sources"
+  default_prompt: "Use $literature-source-gate to screen and label the scholarly sources for this project."

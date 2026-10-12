@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研初始化与维护"
+  short_description: "初始化空白科研项目与目录框架，或维护科研条目的编号和链接"
+  default_prompt: "使用 $maintain-research-state 初始化空白科研项目；已有科研状态时，仅按我的明确要求维护结构。"

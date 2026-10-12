@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "output_root": "outputs",
+  "directories": [
+    ".agents/instructions",
+    ".agents/skills",
+    ".agents/config",
+    "notes/experiments",
+    "notes/protocols",
+    "notes/literature",
+    "sources/presentations",
+    "sources/literature",
+    "outputs/reports",
+    "outputs/figures",
+    "outputs/deconstruction",
+    ".planning",
+    ".work"
+  ],
+  "forbidden_roots": [
+    "output",
+    "out",
+    "result",
+    "results",
+    "figures",
+    "reports",
+    "imagegen",
+    "presentation",
+    "literature_sources",
+    "staging",
+    "tmp",
+    ".bg01_analysis",
+    ".collection_analysis",
+    ".collection2_analysis",
+    ".codex_tmp_gvsc"
+  ]
+}

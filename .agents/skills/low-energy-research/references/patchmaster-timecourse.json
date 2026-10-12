@@ -1,0 +1,11 @@
+{
+  "sheet": "cycle_results",
+  "series": "source_file",
+  "x": "center_s",
+  "x_label": "Time (s)",
+  "metrics": [
+    {"column": "G_nS", "sheet": "G时间过程", "label": "G (nS)"},
+    {"column": "b_nA", "sheet": "b时间过程", "label": "b (nA)"},
+    {"column": "Vnull_mV", "sheet": "Vnull时间过程", "label": "V_null (mV)"}
+  ]
+}

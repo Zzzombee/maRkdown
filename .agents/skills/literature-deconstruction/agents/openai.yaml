@@ -1,0 +1,4 @@
+interface:
+  display_name: "文献拆解"
+  short_description: "按 figure/panel 拆解文献并映射到完整论文故事线与图片大纲"
+  default_prompt: "Use $literature-deconstruction to deconstruct a published paper against my specified complete project story and produce the figure outline."

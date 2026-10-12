@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPTX → 研究现状"
+  short_description: "从科研汇报维护研究状态、研究问题和论文故事，并按需生成 RQ 解决方案"
+  default_prompt: "Use $pptx-to-research-state to maintain my evidence-bounded research knowledge base from the specified PPTX; create an SOL note only if I explicitly request a solution for a specific RQ."

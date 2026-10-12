@@ -1,0 +1,47 @@
+---
+date: {{DATE}}
+---
+
+# CURRENT_STATE.md
+
+## 1. Project objective
+
+{{CURRENT_PROJECT_OBJECTIVE}}
+
+## 2. Current experimental system
+
+{{SYSTEMS_CONDITIONS_CONTROLS_AND_MISSING_PARAMETERS}}
+
+## 3. Current analysis framework
+
+{{READOUTS_ANALYSIS_WINDOWS_STATISTICAL_LEVELS_AND_LIMITATIONS}}
+
+## 4. Experimental observations
+
+### OBS-001 — {{MEASUREMENT_FOCUSED_TITLE}}
+
+{{DIRECT_OBSERVATION_WITH_MINIMUM_INTERPRETIVE_CONDITIONS}} ^obs-001
+
+## 5. Current conclusions
+
+### CON-001 — {{BOUNDED_CONCLUSION_TITLE}}
+
+{{SUPPORTED_JUDGMENT}} 依据：[[CURRENT_STATE#^obs-001|OBS-001]]；证据强度：**{{初步_OR_中等_OR_较强_OR_充分}}**。{{BOUNDARY_OR_ALTERNATIVE_EXPLANATION}} ^con-001
+
+## 6. Current working hypotheses
+
+### HYP-001 — {{UNVERIFIED_EXPLANATION_TITLE}}
+
+{{WORKING_HYPOTHESIS_AND_FALSIFICATION_DIRECTION}} 解释目标：[[CURRENT_STATE#^obs-001|OBS-001]]；相关问题：[[RESEARCH_QUESTIONS#^rq-001|RQ-001]]。 ^hyp-001
+
+## 7. What is NOT established
+
+{{CLAIMS_NOT_YET_SUPPORTED}}
+
+## 8. Current research direction
+
+{{DIRECTION_AS_A_DECISION_OR_CANDIDATE_NOT_AS_AN_OBSERVATION}}
+
+## 9. Immediate priorities
+
+1. {{HIGHEST_VALUE_NEXT_STEP}}

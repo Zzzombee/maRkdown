@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术写作编辑"
+  short_description: "提升中英文学术文本的清晰度、证据匹配、逻辑连贯性与自然表达"
+  default_prompt: "使用 $academic-writing-editor 提升这段学术文本的清晰度，同时保持原意和证据边界。"

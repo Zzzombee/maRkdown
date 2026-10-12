@@ -1,0 +1,4 @@
+interface:
+  display_name: "低精力科研搭档"
+  short_description: "接手本项目近期进展，判断可用数据，决定汇报重点和展示方式，再准备作图材料"
+  default_prompt: "使用 $low-energy-research，从本项目近期进展中决定这次讲什么、哪些数据能用、怎么展示，并准备好汇报材料。"
